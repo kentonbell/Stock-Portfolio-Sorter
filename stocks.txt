@@ -1,0 +1,12 @@
+MSFT
+Microsoft
+430.16
+HI
+Hillenbrand Inc
+44.65
+SCHW
+Charles Schwab
+72.37
+GOOG
+Google
+174.11

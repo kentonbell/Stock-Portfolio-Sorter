@@ -1,0 +1,178 @@
+/Users/kentonbell/CS/CLionProjects/Lab9/cscd240Lab9
+Please enter the name of the file stocks.txt
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 1
+
+Google - GOOG - $174.11
+
+Hillenbrand Inc - HI - $44.65
+
+Microsoft - MSFT - $430.16
+
+Charles Schwab - SCHW - $72.37
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 2
+
+Charles Schwab - SCHW - $72.37
+
+Google - GOOG - $174.11
+
+Hillenbrand Inc - HI - $44.65
+
+Microsoft - MSFT - $430.16
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 3
+
+Hillenbrand Inc - HI - $44.65
+
+Charles Schwab - SCHW - $72.37
+
+Google - GOOG - $174.11
+
+Microsoft - MSFT - $430.16
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 2
+
+Charles Schwab - SCHW - $72.37
+
+Google - GOOG - $174.11
+
+Hillenbrand Inc - HI - $44.65
+
+Microsoft - MSFT - $430.16
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> -1
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 10
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 4
+all done
+
+Process finished with exit code 0
+
+
+
+
+
+Another run in VM
+
+
+
+
+
+
+ubuntu@ip-10-219-1-83:~/Lab9$ ./run
+Please enter the name of the file stok
+Please enter the name of the file stocks.txt
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 1
+The sorted array is for symbol:
+Google - GOOG - $174.11
+
+Hillenbrand Inc - HI - $44.65
+
+Microsoft - MSFT - $430.16
+
+Charles Schwab - SCHW - $72.37
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 2
+The sorted array is for company:
+Charles Schwab - SCHW - $72.37
+
+Google - GOOG - $174.11
+
+Hillenbrand Inc - HI - $44.65
+
+Microsoft - MSFT - $430.16
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 3
+The sorted array is for price:
+Hillenbrand Inc - HI - $44.65
+
+Charles Schwab - SCHW - $72.37
+
+Google - GOOG - $174.11
+
+Microsoft - MSFT - $430.16
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 2
+The sorted array is for company:
+Charles Schwab - SCHW - $72.37
+
+Google - GOOG - $174.11
+
+Hillenbrand Inc - HI - $44.65
+
+Microsoft - MSFT - $430.16
+
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> -1
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 10
+Please choose from the following
+1) Sort by Symbol
+2) Sort by Company Name
+3) Sort by Price
+4) Quit
+Choice --> 4
+all done
+ubuntu@ip-10-219-1-83:~/Lab9$ 
